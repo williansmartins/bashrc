@@ -22,3 +22,9 @@ function editarBash(){
   s ~/.bash_profile
 }
 `
+
+`alias c='clear' # c: Clear terminal display`
+
+`alias l='clear && pwd && ls -alFG '`
+
+`alias gs='printf "\033c" && git status'`
