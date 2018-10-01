@@ -3,6 +3,7 @@ meus atalhos para serem utilizados no .bashrc
 
 ## referências
 https://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
+
 https://natelandau.com/my-mac-osx-bash_profile/
 
 ## run
