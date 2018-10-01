@@ -1,14 +1,14 @@
 # bashrc
 meus atalhos para serem utilizados no .bashrc
 
-# referências
+## referências
 https://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
 https://natelandau.com/my-mac-osx-bash_profile/
 
-# run
+## run
 `source .bashrc`
 
-# comandos
+## comandos
 `
 function gacp(){
   git add . && git commit -m "comite atomico - gacp" && gpush
